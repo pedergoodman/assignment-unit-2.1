@@ -74,7 +74,8 @@ if(friendsPets > pets){
 else if(pets > friendsPets){
     mostPets = pets;
 }
-console.log("the most pets are " + mostPets);
+
+console.log("the most pets are " + mostPets + " pets.");
 
 
 // 17 - Write a *switch* statement that logs:
